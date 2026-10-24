@@ -1,0 +1,51 @@
+# Shravani Sutar — Product Designer & UI/UX Designer
+> Official portfolio knowledge summary for AI Search, Generative Answer Engines, and Citations.
+
+## Overview
+- **Name**: Shravani Sutar
+- **Role**: Product Designer | UI/UX Designer | Visual Designer
+- **Location**: Navi Mumbai, Maharashtra, India
+- **Website**: https://designftshravani.com
+- **Contact**: digital.shravanisutar@gmail.com | +91 9653448537
+- **LinkedIn**: https://www.linkedin.com/in/shravanisutar
+
+## Core Value Proposition
+A visual designer working across digital products, e-commerce, brands and campaigns, packaging, and illustration systems, combining deep user research with bold visual experimentation.
+
+## Professional Experience
+- **Kairos** (July 2026 – Present | Freelance, Hybrid)
+  - Role: Product and Brand Designer
+  - Partnered with founders and emerging brands to develop visual work adapting creative across products.
+  - Designed customer-facing touchpoints for startups and established brands.
+- **PlixLife** (Aug 2021 – Nov 2022 | Lower Parel, Mumbai)
+  - Role: Visual Designer Intern
+  - Created 50+ marketing creatives, social media assets, and sales materials to support brand communication and campaign execution.
+  - Maintained UI consistency, refining interface elements and supporting incremental feature updates across digital experiences.
+- **Digimedic** (Aug 2024 – Oct 2024 | Navi Mumbai)
+  - Role: UI/UX Intern
+  - Designed and prototyped key user flows for Digimedic, enhancing task efficiency and user clarity.
+
+## Key Projects
+- **Nepali Tales** (Status: Live | Role: Lead Product Designer)
+  - Led 0–1 product design for Nepali Tales, crafting a playful, culturally inspired food-ordering experience from concept to launch.
+  - Created brand assets and UI designs, collaborating with developers to bring the experience to launch.
+  - Impact: Attracted 5,000+ visitors and 150+ direct orders, reducing manual operational work.
+- **Kora - Brand Identity** (Status: Concept / Case Study | Role: Brand & Visual Designer)
+  - Developed Kora from concept to brand, shaping its identity around cultural cues, consumer behavior, and a warm, earthy aesthetic.
+  - Designed the visual system, including logo, logo motion, brand assets, and packaging across key touchpoints.
+- **Redbus Case Study** (Status: Case Study | Role: UX Researcher & Designer)
+  - Research-backed mobile ticket checkout redesign addressing interstate bus commuter friction, seat filtering, and route accessibility.
+
+## Education & Academic Honors
+- **Tilak University** (Belapur, Navi Mumbai, India | 2022 – 2025)
+  - Degree: Bachelor of Computer Applications (BCA)
+  - Cumulative GPA: 8.4
+  - Academic Distinction: Grade O (Outstanding)
+
+## Skills & Competencies
+- **Brand Creative**: Visual Systems, Brand Identity, Art Direction, Typography, Illustration, Design Systems
+- **Research & Strategy**: A/B Testing, Product Analytics, Cultural Research, Trend Research, User Behavior
+- **Tools & Tech**: Figma, Adobe Photoshop, Adobe Illustrator, After Effects, Blender, Notion, Claude, Visual Studio Code, Git
+
+## Availability & Inquiries
+Available for product design contracts, freelance brand design, and full-time UI/UX roles. Inquiries can be sent to digital.shravanisutar@gmail.com.
